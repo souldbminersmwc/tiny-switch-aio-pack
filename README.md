@@ -5,6 +5,8 @@ Tested on Mariko and Erista
 FOLLOW THE SWITCH GUIDE. THIS IS NOT A SUBSTITUTE FOR IT!
 https://switch.hacks.guide/
 
+Please install 10 Second Run Returns Demo to use the HB Menu on SysNAND
+
 Mariko is:
 Switch Lite
 Switch OLED
