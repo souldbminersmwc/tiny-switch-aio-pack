@@ -5,7 +5,6 @@ Tested on Mariko and Erista
 FOLLOW THE SWITCH GUIDE. THIS IS NOT A SUBSTITUTE FOR IT!
 https://switch.hacks.guide/
 
-Please install 10 Second Run Returns Demo to use the HB Menu on SysNAND
 
 Mariko is:
 Switch Lite
@@ -25,15 +24,14 @@ Modchip guide is at https://switch.hacks.guide/user_guide/modchip/
 Please read the guide fully before chipping your consoles
 Only Picofly chips are supported (The ones with the chip with the Raspberry on it)
 Instinct-NX chips are garbage. Do not buy them.
-
+TX Clone chips are supported, provided they are flashed with open source firmware
 Erista can be modded with fuseé geleé exploit.
 
-This contains hekate, Atmosphere, and the NXDumpGuide patches
+This contains hekate, Atmosphere
 Contains some useful homebrew too
 Things to do on your switch:
 https://wiki.hacks.guide/wiki/Switch:Things_to_do
 
-Note: DO NOT USE TINFOIL! IT IS GARBAGE SPYWARE!
 Reccomended SD Card Sizes:
 Minimum 64gb Erista
 Reccomended 128+ gb Erista
